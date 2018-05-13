@@ -2,7 +2,7 @@
   "fakeimg": {
 		"prefix": "fakeimg",
 		"body": [
-			"https://fakeimg.pl/$1x$2/$3"
+			"\"https://fakeimg.pl/$1x$2/$3\""
 		],
 		"description": "fakeimg"
   }
