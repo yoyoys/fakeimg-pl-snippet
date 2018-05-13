@@ -1,0 +1,9 @@
+{
+  "fakeimg": {
+		"prefix": "fakeimg",
+		"body": [
+			"url(\"https://fakeimg.pl/$1x$2/$3\")>"
+		],
+		"description": "fakeimg"
+  }
+}

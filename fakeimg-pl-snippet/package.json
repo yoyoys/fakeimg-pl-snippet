@@ -6,7 +6,7 @@
         "type": "git",
         "url": "https://github.com/yoyoys/fakeimg-pl-snippet"
     },
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "yoyoys",
     "engines": {
         "vscode": "^1.23.0"
@@ -27,6 +27,26 @@
             {
                 "language": "pug",
                 "path": "./snippets/pug.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/css.json"
+            },
+            {
+                "language": "sass",
+                "path": "./snippets/css.json"
+            },
+            {
+                "language": "stylus",
+                "path": "./snippets/css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/css.json"
             }
         ]
     }
