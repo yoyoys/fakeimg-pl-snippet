@@ -1,0 +1,29 @@
+{
+    "name": "fakeimg-pl-snippet",
+    "displayName": "fakeimg.pl Snippet",
+    "description": "A snippet for fakeimg.pl",
+    "version": "0.0.1",
+    "publisher": "yoyoys",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/html.json"
+            },
+            {
+                "language": "vue-html",
+                "path": "./snippets/html.json"
+            },
+            {
+                "language": "pug",
+                "path": "./snippets/pug.json"
+            }
+        ]
+    }
+}
