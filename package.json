@@ -6,7 +6,7 @@
         "type": "git",
         "url": "https://github.com/yoyoys/fakeimg-pl-snippet"
     },
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "yoyoys",
     "engines": {
         "vscode": "^1.23.0"
